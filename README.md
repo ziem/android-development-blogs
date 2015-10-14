@@ -31,7 +31,7 @@
 | Hannes Dorfmann | [http://hannesdorfmann.com/](http://hannesdorfmann.com/) | [http://www.hannesdorfmann.com/...](http://www.hannesdorfmann.com//feed.xml) |
 | Jake Wharton | [http://jakewharton.com/](http://jakewharton.com/) | [http://jakewharton.com/atom.xm...](http://jakewharton.com/atom.xml) |
 | Jorge Castillo | [http://jorgecastillo.xyz/](http://jorgecastillo.xyz/) | [http://jorgecastillo.xyz/atom....](http://jorgecastillo.xyz/atom.xml) |
-| JPARDOGO on Medium | [https://medium.com/@jpardogo?s...](https://medium.com/@jpardogo?source=rss-d8b94a0f0f53------2) | [https://medium.com/feed/@jpard...](https://medium.com/feed/@jpardogo) |
+| JPARDOGO on Medium | [https://medium.com/@jpardogo](https://medium.com/@jpardogo) | [https://medium.com/feed/@jpard...](https://medium.com/feed/@jpardogo) |
 | kaushik gopal's blog | [http://blog.kaush.co/](http://blog.kaush.co/) | [http://blog.kaush.co/feed.xml](http://blog.kaush.co/feed.xml) |
 | Kirill Boyarshinov | [http://kboyarshinov.com](http://kboyarshinov.com) | [http://kboyarshinov.com/feed.x...](http://kboyarshinov.com/feed.xml) |
 | Matt Logan | [http://mattlogan.me/](http://mattlogan.me/) | [http://mattlogan.me/feed](http://mattlogan.me/feed) |
@@ -40,13 +40,13 @@
 | My little Android warehouse | [http://fedepaol.github.io/](http://fedepaol.github.io/) | [http://fedepaol.github.io/atom...](http://fedepaol.github.io/atom.xml) |
 | NimbleDroid Blog | [http://blog.nimbledroid.com/](http://blog.nimbledroid.com/) | [http://blog.nimbledroid.com/fe...](http://blog.nimbledroid.com/feed.xml) |
 | Omit needless code blog | [http://www.omitneedlesscode.co...](http://www.omitneedlesscode.com/blog/) | [http://feeds.feedburner.com/El...](http://feeds.feedburner.com/ElliottChenger) |
-| Patryk Poborca on Medium | [https://medium.com/@patrykpobo...](https://medium.com/@patrykpoborca?source=rss-ef5bf72f8620------2) | [https://medium.com/feed/@patry...](https://medium.com/feed/@patrykpoborca) |
+| Patryk Poborca on Medium | [https://medium.com/@patrykpobo...](https://medium.com/@patrykpoborca) | [https://medium.com/feed/@patry...](https://medium.com/feed/@patrykpoborca) |
 | Piwaï.info | [http://www.piwai.info](http://www.piwai.info) | [http://feeds.feedburner.com/Pi...](http://feeds.feedburner.com/Piwai) |
 | Porcupine Programmer | [http://chalup.github.io/](http://chalup.github.io/) | [http://chalup.github.io/atom.x...](http://chalup.github.io/atom.xml) |
 | Romain Guy | [http://www.curious-creature.co...](http://www.curious-creature.com) | [http://www.curious-creature.or...](http://www.curious-creature.org/feed/) |
 | Ryan Harter | [http://ryanharter.com/](http://ryanharter.com/) | [http://ryanharter.com/atom.xml](http://ryanharter.com/atom.xml) |
-| Seb’s Top Tip | [https://medium.com/@seebrock3r...](https://medium.com/@seebrock3r?source=rss-9706138c9bfb------2) | [https://medium.com/feed/@seebr...](https://medium.com/feed/@seebrock3r) |
-| Stef' on Medium | [https://medium.com/@Mul0w?sour...](https://medium.com/@Mul0w?source=rss-19a9c76ffee7------2) | [https://medium.com/feed/@Mul0w](https://medium.com/feed/@Mul0w) |
+| Seb’s Top Tip | [https://medium.com/@seebrock3r](https://medium.com/@seebrock3r) | [https://medium.com/feed/@seebr...](https://medium.com/feed/@seebrock3r) |
+| Stef' on Medium | [https://medium.com/@Mul0w](https://medium.com/@Mul0w) | [https://medium.com/feed/@Mul0w](https://medium.com/feed/@Mul0w) |
 | The CommonsBlog | [http://commonsware.com/blog/](http://commonsware.com/blog/) | [http://commonsware.com/blog/fe...](http://commonsware.com/blog/feed.atom) |
 | The Corner | [http://corner.squareup.com](http://corner.squareup.com) | [http://feeds.feedburner.com/co...](http://feeds.feedburner.com/corner-squareup-com) |
 | Tony's Blog | [https://tsicilian.wordpress.co...](https://tsicilian.wordpress.com) | [http://tsicilian.wordpress.com...](http://tsicilian.wordpress.com/feed/) |

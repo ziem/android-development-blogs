@@ -31,7 +31,7 @@
 			<outline type="rss" text="Hannes Dorfmann" title="Hannes Dorfmann" xmlUrl="http://www.hannesdorfmann.com//feed.xml" htmlUrl="http://hannesdorfmann.com/"/>
 			<outline type="rss" text="Jake Wharton" title="Jake Wharton" xmlUrl="http://jakewharton.com/atom.xml" htmlUrl="http://jakewharton.com/"/>
 			<outline type="rss" text="Jorge Castillo" title="Jorge Castillo" xmlUrl="http://jorgecastillo.xyz/atom.xml" htmlUrl="http://jorgecastillo.xyz/"/>
-			<outline type="rss" text="JPARDOGO on Medium" title="JPARDOGO on Medium" xmlUrl="https://medium.com/feed/@jpardogo" htmlUrl="https://medium.com/@jpardogo?source=rss-d8b94a0f0f53------2"/>
+			<outline type="rss" text="JPARDOGO on Medium" title="JPARDOGO on Medium" xmlUrl="https://medium.com/feed/@jpardogo" htmlUrl="https://medium.com/@jpardogo"/>
 			<outline type="rss" text="Kaushik Gopal's blog" title="kaushik gopal's blog" xmlUrl="http://blog.kaush.co/feed.xml" htmlUrl="http://blog.kaush.co/"/>
 			<outline type="rss" text="Kirill Boyarshinov" title="Kirill Boyarshinov" xmlUrl="http://kboyarshinov.com/feed.xml" htmlUrl="http://kboyarshinov.com"/>
 			<outline type="rss" text="Matt Logan" title="Matt Logan" xmlUrl="http://mattlogan.me/feed" htmlUrl="http://mattlogan.me/"/>
@@ -40,13 +40,13 @@
 			<outline type="rss" text="My little Android warehouse" title="My little Android warehouse" xmlUrl="http://fedepaol.github.io/atom.xml" htmlUrl="http://fedepaol.github.io/"/>
 			<outline type="rss" text="NimbleDroid Blog" title="NimbleDroid Blog" xmlUrl="http://blog.nimbledroid.com/feed.xml" htmlUrl="http://blog.nimbledroid.com/"/>
 			<outline type="rss" text="Omit needless code blog" title="Omit needless code blog" xmlUrl="http://feeds.feedburner.com/ElliottChenger" htmlUrl="http://www.omitneedlesscode.com/blog/"/>
-			<outline type="rss" text="Patryk Poborca on Medium" title="Patryk Poborca on Medium" xmlUrl="https://medium.com/feed/@patrykpoborca" htmlUrl="https://medium.com/@patrykpoborca?source=rss-ef5bf72f8620------2"/>
+			<outline type="rss" text="Patryk Poborca on Medium" title="Patryk Poborca on Medium" xmlUrl="https://medium.com/feed/@patrykpoborca" htmlUrl="https://medium.com/@patrykpoborca"/>
 			<outline type="rss" text="Piwaï.info" title="Piwaï.info" xmlUrl="http://feeds.feedburner.com/Piwai" htmlUrl="http://www.piwai.info"/>
 			<outline type="rss" text="Porcupine Programmer" title="Porcupine Programmer" xmlUrl="http://chalup.github.io/atom.xml" htmlUrl="http://chalup.github.io/"/>
 			<outline type="rss" text="Romain Guy" title="Romain Guy" xmlUrl="http://www.curious-creature.org/feed/" htmlUrl="http://www.curious-creature.com"/>
 			<outline type="rss" text="Ryan Harter" title="Ryan Harter" xmlUrl="http://ryanharter.com/atom.xml" htmlUrl="http://ryanharter.com/"/>
-			<outline type="rss" text="Seb’s Top Tip" title="Seb’s Top Tip" xmlUrl="https://medium.com/feed/@seebrock3r" htmlUrl="https://medium.com/@seebrock3r?source=rss-9706138c9bfb------2"/>
-			<outline type="rss" text="Stef' on Medium" title="Stef' on Medium" xmlUrl="https://medium.com/feed/@Mul0w" htmlUrl="https://medium.com/@Mul0w?source=rss-19a9c76ffee7------2"/>
+			<outline type="rss" text="Seb’s Top Tip" title="Seb’s Top Tip" xmlUrl="https://medium.com/feed/@seebrock3r" htmlUrl="https://medium.com/@seebrock3r"/>
+			<outline type="rss" text="Stef' on Medium" title="Stef' on Medium" xmlUrl="https://medium.com/feed/@Mul0w" htmlUrl="https://medium.com/@Mul0w"/>
 			<outline type="rss" text="The CommonsBlog" title="The CommonsBlog" xmlUrl="http://commonsware.com/blog/feed.atom" htmlUrl="http://commonsware.com/blog/"/>
 			<outline type="rss" text="The Corner" title="The Corner" xmlUrl="http://feeds.feedburner.com/corner-squareup-com" htmlUrl="http://corner.squareup.com"/>
 			<outline type="rss" text="Tony's Blog" title="Tony's Blog" xmlUrl="http://tsicilian.wordpress.com/feed/" htmlUrl="https://tsicilian.wordpress.com"/>
