@@ -52,3 +52,4 @@
 | Tony's Blog | [https://tsicilian.wordpress.co...](https://tsicilian.wordpress.com) | [http://tsicilian.wordpress.com...](http://tsicilian.wordpress.com/feed/) |
 | Udi Cohen | [http://blog.udinic.com/](http://blog.udinic.com/) | [http://blog.udinic.com/feed.xm...](http://blog.udinic.com/feed.xml) |
 | Wedding Party | [http://nerds.weddingpartyapp.c...](http://nerds.weddingpartyapp.com/) | [http://nerds.weddingpartyapp.c...](http://nerds.weddingpartyapp.com/atom.xml) |
+| Android Code Geeks | [https://androidcodegeeks.com/](https://androidcodegeeks.com/) | [https://androidcodegeeks.com/feed/](https://androidcodegeeks.com/feed/) |
