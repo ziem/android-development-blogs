@@ -38,6 +38,8 @@
 			<outline type="rss" text="More Is Not Always Better" title="More Is Not Always Better" xmlUrl="http://blahti.wordpress.com/feed/" htmlUrl="https://blahti.wordpress.com"/>
 			<outline type="rss" text="My life with Android :-)" title="My life with Android :-)" xmlUrl="http://mylifewithandroid.blogspot.com/feeds/posts/default" htmlUrl="http://mylifewithandroid.blogspot.com/"/>
 			<outline type="rss" text="My little Android warehouse" title="My little Android warehouse" xmlUrl="http://fedepaol.github.io/atom.xml" htmlUrl="http://fedepaol.github.io/"/>
+			<outline type="rss" text="Mouna Cheikhna" title="Mouna Cheikhna" xmlUrl="http://feeds.feedburner.com/MounaCheikhna" 
+			htmlUrl="http://mounacheikhna.com"/>
 			<outline type="rss" text="NimbleDroid Blog" title="NimbleDroid Blog" xmlUrl="http://blog.nimbledroid.com/feed.xml" htmlUrl="http://blog.nimbledroid.com/"/>
 			<outline type="rss" text="Omit needless code blog" title="Omit needless code blog" xmlUrl="http://feeds.feedburner.com/ElliottChenger" htmlUrl="http://www.omitneedlesscode.com/blog/"/>
 			<outline type="rss" text="Patryk Poborca on Medium" title="Patryk Poborca on Medium" xmlUrl="https://medium.com/feed/@patrykpoborca" htmlUrl="https://medium.com/@patrykpoborca"/>
