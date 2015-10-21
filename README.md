@@ -52,3 +52,15 @@
 | Tony's Blog | [https://tsicilian.wordpress.co...](https://tsicilian.wordpress.com) | [http://tsicilian.wordpress.com...](http://tsicilian.wordpress.com/feed/) |
 | Udi Cohen | [http://blog.udinic.com/](http://blog.udinic.com/) | [http://blog.udinic.com/feed.xm...](http://blog.udinic.com/feed.xml) |
 | Wedding Party | [http://nerds.weddingpartyapp.c...](http://nerds.weddingpartyapp.com/) | [http://nerds.weddingpartyapp.c...](http://nerds.weddingpartyapp.com/atom.xml) |
+
+### Contributing guidelines
+
+If you would like to add a new website or blog to the list, create the new issue using template below:
+
+> **Title:** Add http://example.com
+
+> **Website URL:** http://example.com
+
+> **Feed URL:** http://example.com/feed
+
+> **Description [optional]:** Lorem ipsum dolor sit amet
