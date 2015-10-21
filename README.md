@@ -57,12 +57,9 @@
 
 If you would like to add a new website or blog to the list, create a new issue using template below:
 
-> **Title:** Lorem ipsum
-
-> **Website URL:** http://example.com
-
-> **Feed URL:** http://example.com/feed
-
-> **Description [optional]:** Lorem ipsum dolor sit amet
+    **Title:** Lorem ipsum
+    **Website URL:** http://example.com
+    **Feed URL:** http://example.com/feed
+    **Description [optional]:** Lorem ipsum dolor sit amet
 
 As an issue title use `Add http://example.com`.
