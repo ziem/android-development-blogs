@@ -55,7 +55,7 @@
 
 ### Contributing guidelines
 
-If you would like to add a new website or blog to the list, create the new issue using template below:
+If you would like to add a new website or blog to the list, create a new issue using template below:
 
 > **Title:** Add http://example.com
 
