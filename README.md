@@ -58,7 +58,7 @@
 | Stef' on Medium | [https://medium.com/@Mul0w](https://medium.com/@Mul0w) | [https://medium.com/feed/@Mul0w](https://medium.com/feed/@Mul0w) |
 | The CommonsBlog | [http://commonsware.com/blog/](http://commonsware.com/blog/) | [http://commonsware.com/blog/fe...](http://commonsware.com/blog/feed.atom) |
 | The Corner | [http://corner.squareup.com](http://corner.squareup.com) | [http://feeds.feedburner.com/co...](http://feeds.feedburner.com/corner-squareup-com) |
-| The Labs | Novoda | [http://novoda.com/blog/](http://novoda.com/blog/) | [http://novoda.com/blog/rss/](http://novoda.com/blog/rss/) |
+| The Labs &#124; Novoda | [http://novoda.com/blog/](http://novoda.com/blog/) | [http://novoda.com/blog/rss/](http://novoda.com/blog/rss/) |
 | Tony's Blog | [https://tsicilian.wordpress.co...](https://tsicilian.wordpress.com) | [http://tsicilian.wordpress.com...](http://tsicilian.wordpress.com/feed/) |
 | Udi Cohen | [http://blog.udinic.com/](http://blog.udinic.com/) | [http://blog.udinic.com/feed.xm...](http://blog.udinic.com/feed.xml) |
 | Vishnu Rajeevan | [http://vishnurajeevan.com/](http://vishnurajeevan.com/) | [http://vishnurajeevan.com/feed...](http://vishnurajeevan.com/feed.xml) |
