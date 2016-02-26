@@ -41,7 +41,7 @@
 			<outline type="rss" text="John Petitto" title="John Petitto" xmlUrl="http://johnpetitto.com/atom.xml" htmlUrl="http://www.johnpetitto.com/"/>
 			<outline type="rss" text="Jorge Castillo" title="Jorge Castillo" xmlUrl="http://jorgecastillo.xyz/atom.xml" htmlUrl="http://jorgecastillo.xyz/"/>
 			<outline type="rss" text="JPARDOGO on Medium" title="JPARDOGO on Medium" xmlUrl="https://medium.com/feed/@jpardogo" htmlUrl="https://medium.com/@jpardogo"/>
-			<outline type="rss" text="Karumi Blog" title="Karumi Blog" xmlUrl="http://karumiblog-env.elasticbeanstalk.com/rss/" htmlUrl="http://karumiblog-env.elasticbeanstalk.com/"/>
+			<outline type="rss" text="Karumi Blog" title="Karumi Blog" xmlUrl="http://blog.karumi.com/rss/" htmlUrl="http://blog.karumi.com/"/>
 			<outline type="rss" text="Kaushik Gopal's blog" title="kaushik gopal's blog" xmlUrl="http://blog.kaush.co/feed.xml" htmlUrl="http://blog.kaush.co/"/>
 			<outline type="rss" text="Kirill Boyarshinov" title="Kirill Boyarshinov" xmlUrl="http://kboyarshinov.com/feed.xml" htmlUrl="http://kboyarshinov.com"/>
 			<outline type="rss" text="Lucas Rocha" title="Lucas Rocha" xmlUrl="http://lucasr.org/feed/" htmlUrl="http://lucasr.org"/>

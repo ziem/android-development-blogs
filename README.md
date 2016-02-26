@@ -39,7 +39,7 @@
 | John Petitto | [http://www.johnpetitto.com/](http://www.johnpetitto.com/) | [http://johnpetitto.com/atom.xm...](http://johnpetitto.com/atom.xml) |
 | Jorge Castillo | [http://jorgecastillo.xyz/](http://jorgecastillo.xyz/) | [http://jorgecastillo.xyz/atom....](http://jorgecastillo.xyz/atom.xml) |
 | JPARDOGO on Medium | [https://medium.com/@jpardogo](https://medium.com/@jpardogo) | [https://medium.com/feed/@jpard...](https://medium.com/feed/@jpardogo) |
-| Karumi Blog | [http://karumiblog-env.elasticb...](http://karumiblog-env.elasticbeanstalk.com/) | [http://karumiblog-env.elasticb...](http://karumiblog-env.elasticbeanstalk.com/rss/) |
+| Karumi Blog | [http://blog.karumi.com/](http://blog.karumi.com/) | [http://blog.karumi.com/rss/](http://blog.karumi.com/rss/) |
 | kaushik gopal's blog | [http://blog.kaush.co/](http://blog.kaush.co/) | [http://blog.kaush.co/feed.xml](http://blog.kaush.co/feed.xml) |
 | Kirill Boyarshinov | [http://kboyarshinov.com](http://kboyarshinov.com) | [http://kboyarshinov.com/feed.x...](http://kboyarshinov.com/feed.xml) |
 | Lucas Rocha | [http://lucasr.org](http://lucasr.org) | [http://lucasr.org/feed/](http://lucasr.org/feed/) |
