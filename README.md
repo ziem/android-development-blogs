@@ -35,7 +35,7 @@
 | David Gonzalez | [http://malmstein.github.io/](http://malmstein.github.io/) | [http://www.malmstein.com/atom....](http://www.malmstein.com/atom.xml) |
 | Donn Felker | [http://www.donnfelker.com](http://www.donnfelker.com) | [http://feeds.feedburner.com/do...](http://feeds.feedburner.com/donnfelker) |
 | enoent | [http://enoent.fr/](http://enoent.fr/) | [http://enoent.fr/atom.xml](http://enoent.fr/atom.xml) |
-| Fernando Cejas | [http://fernandocejas.com](http://fernandocejas.com) | [http://fernandocejas.com/feed/](http://fernandocejas.com/feed/) |
+| Fernando Cejas | [https://fernandocejas.com](https://fernandocejas.com) | [https://fernandocejas.com/feed](https://fernandocejas.com/feed) |
 | Flavien Laurent | [http://flavienlaurent.com/](http://flavienlaurent.com/) | [http://flavienlaurent.com/atom...](http://flavienlaurent.com/atom.xml) |
 | froger_mcs dev blog | [http://frogermcs.github.io](http://frogermcs.github.io) | [http://frogermcs.github.io/fee...](http://frogermcs.github.io/feed.xml) |
 | Gadget Habit | [http://michaelevans.org/](http://michaelevans.org/) | [http://michaelevans.org/atom.x...](http://michaelevans.org/atom.xml) |
