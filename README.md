@@ -29,7 +29,7 @@
 | Christian Panadero | [http://panavtec.me](http://panavtec.me) | [http://panavtec.me/feed/](http://panavtec.me/feed/) |
 | code.neenbedankt.com | [http://code.neenbedankt.com](http://code.neenbedankt.com) | [http://code.neenbedankt.com/fe...](http://code.neenbedankt.com/feed/) |
 | Codedependent | [http://graphics-geek.blogspot....](http://graphics-geek.blogspot.com/) | [http://graphics-geek.blogspot....](http://graphics-geek.blogspot.com/feeds/posts/default) |
-| Crushing C.O.D.E | [http://crushingcode.co/](http://crushingcode.co/) | [http://crushingcode.co/feed.xm...](http://crushingcode.co/feed.xml) |
+| Crushing C.O.D.E | [http://crushingcode.nisrulz.co...](http://crushingcode.nisrulz.com) | [http://crushingcode.nisrulz.co...](http://crushingcode.nisrulz.com/index.xml) |
 | Cyril Mottier | [http://cyrilmottier.com/](http://cyrilmottier.com/) | [http://android.cyrilmottier.co...](http://android.cyrilmottier.com/?feed=rss2) |
 | Dan Lew Codes | [http://blog.danlew.net/](http://blog.danlew.net/) | [http://blog.danlew.net/rss/](http://blog.danlew.net/rss/) |
 | David Gonzalez | [http://malmstein.github.io/](http://malmstein.github.io/) | [http://www.malmstein.com/atom....](http://www.malmstein.com/atom.xml) |
