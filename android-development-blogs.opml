@@ -37,7 +37,7 @@
 			<outline type="rss" text="David Gonzalez" title="David Gonzalez" xmlUrl="http://www.malmstein.com/atom.xml" htmlUrl="http://malmstein.github.io/"/>
 			<outline type="rss" text="Donn Felker" title="Donn Felker" xmlUrl="http://feeds.feedburner.com/donnfelker" htmlUrl="http://www.donnfelker.com"/>
             <outline type="rss" text="enoent" title="enoent" xmlUrl="http://enoent.fr/atom.xml" htmlUrl="http://enoent.fr/"/>
-            <outline type="rss" text="Fernando Cejas" title="Fernando Cejas" xmlUrl="http://fernandocejas.com/feed/" htmlUrl="http://fernandocejas.com"/>
+            <outline type="rss" text="Fernando Cejas" title="Fernando Cejas" xmlUrl="https://fernandocejas.com/feed/" htmlUrl="https://fernandocejas.com"/>
 			<outline type="rss" text="Flavien Laurent" title="Flavien Laurent" xmlUrl="http://flavienlaurent.com/atom.xml" htmlUrl="http://flavienlaurent.com/"/>
 			<outline type="rss" text="froger_mcs dev blog" title="froger_mcs dev blog" xmlUrl="http://frogermcs.github.io/feed.xml" htmlUrl="http://frogermcs.github.io"/>
 			<outline type="rss" text="Gadget Habit" title="Gadget Habit" xmlUrl="http://michaelevans.org/atom.xml" htmlUrl="http://michaelevans.org/"/>
