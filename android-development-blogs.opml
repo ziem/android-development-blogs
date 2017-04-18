@@ -13,6 +13,7 @@
 			<outline type="rss" text="Advanced RxJava" title="Advanced RxJava" xmlUrl="http://akarnokd.blogspot.com/feeds/posts/default" htmlUrl="http://akarnokd.blogspot.com/"/>
 			<outline type="rss" text="Alessandro Crugnola" title="Alessandro Crugnola" xmlUrl="http://blog.sephiroth.it/feed/" htmlUrl="http://blog.sephiroth.it"/>
             <outline type="rss" text="Alexandru V. Simonescu" title="Alexandru V. Simonescu" xmlUrl="http://blog.alexsimo.com/feed.xml" htmlUrl="http://alexsimo.com/"/>
+            <outline type="rss" text="All for Android, Android for All" title="All for Android, Android for All" xmlUrl="http://www.ssaurel.com/blog/feed/" htmlUrl="http://www.ssaurel.com/blog"/>
 			<outline type="rss" text="An Android Dev Blog" title="An Android Dev Blog" xmlUrl="http://castorflex.github.io/atom.xml" htmlUrl="http://antoine-merle.com/"/>
             <outline type="rss" text="An Android Developer's Blog" title="An Android Developer's Blog" xmlUrl="http://blog.egorand.me/rss/" htmlUrl="https://blog.egorand.me/"/>
 			<outline type="rss" text="Android Design Patterns" title="Android Design Patterns" xmlUrl="http://androiddesignpatterns.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://androiddesignpatterns.blogspot.com/"/>
@@ -48,8 +49,10 @@
 			<outline type="rss" text="Hannes Dorfmann" title="Hannes Dorfmann" xmlUrl="http://www.hannesdorfmann.com//feed.xml" htmlUrl="http://hannesdorfmann.com/"/>
 			<outline type="rss" text="Ian Field" title="Ian Field" xmlUrl="http://ianfield.com/feed.xml" htmlUrl="http://ianfield.com/"/>
 			<outline type="rss" text="Jake Wharton" title="Jake Wharton" xmlUrl="http://jakewharton.com/atom.xml" htmlUrl="http://jakewharton.com/"/>
+			<outline type="rss" text="jebware.com" title="jebware.com" xmlUrl="https://jebware.com/blog/?feed=rss2" htmlUrl="https://jebware.com/blog"/>
 			<outline type="rss" text="Jeremie Martinez Blog" title="Jeremie Martinez Blog" xmlUrl="http://jeremie-martinez.com/feed.xml" htmlUrl="http://jeremie-martinez.com//"/>
             <outline type="rss" text="Jeroen Mols" title="Jeroen Mols" xmlUrl="http://jeroenmols.github.io/atom.xml" htmlUrl="http://jeroenmols.com/"/>
+            <outline type="rss" text="Jim Baca" title="Jim Baca" xmlUrl="http://blog.jimbaca.com/feed/" htmlUrl="http://blog.jimbaca.com"/>
 			<outline type="rss" text="John Petitto" title="John Petitto" xmlUrl="http://johnpetitto.com/atom.xml" htmlUrl="http://www.johnpetitto.com/"/>
 			<outline type="rss" text="Jorge Castillo" title="Jorge Castillo" xmlUrl="http://jorgecastilloprz.github.io/atom.xml" htmlUrl="http://jorgecastilloprz.github.io/"/>
 			<outline type="rss" text="JPARDOGO on Medium" title="JPARDOGO on Medium" xmlUrl="https://medium.com/feed/@jpardogo" htmlUrl="https://medium.com/@jpardogo"/>
@@ -99,6 +102,7 @@
 			<outline type="rss" text="Yet Another [à compléter]" title="Yet Another [à compléter]" xmlUrl="http://blog.neteril.org/atom.xml" htmlUrl="http://blog.neteril.org/"/>
 			<outline type="rss" text="Yet Another Coder's Blog" title="Yet Another Coder's Blog" xmlUrl="http://blog.egorand.me/rss/" htmlUrl="http://blog.egorand.me/"/>
             <outline type="rss" text="YKode" title="YKode" xmlUrl="https://www.ykode.com/rss.xml" htmlUrl="https://www.ykode.com"/>
+            <outline type="rss" text="zserge's blog" title="zserge's blog" xmlUrl="http://zserge.com/rss.xml" htmlUrl="http://zserge.com/blog.html"/>
 		</outline>
 	</body>
 </opml>

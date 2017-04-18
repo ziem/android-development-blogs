@@ -11,6 +11,7 @@
 | Advanced RxJava | [http://akarnokd.blogspot.com/](http://akarnokd.blogspot.com/) | [http://akarnokd.blogspot.com/f...](http://akarnokd.blogspot.com/feeds/posts/default) |
 | Alessandro Crugnola | [http://blog.sephiroth.it](http://blog.sephiroth.it) | [http://blog.sephiroth.it/feed/](http://blog.sephiroth.it/feed/) |
 | Alexandru V. Simonescu | [http://alexsimo.com/](http://alexsimo.com/) | [http://blog.alexsimo.com/feed....](http://blog.alexsimo.com/feed.xml) |
+| All for Android, Android for All | [http://www.ssaurel.com/blog](http://www.ssaurel.com/blog) | [http://www.ssaurel.com/blog/fe...](http://www.ssaurel.com/blog/feed/) |
 | An Android Dev Blog | [http://antoine-merle.com/](http://antoine-merle.com/) | [http://castorflex.github.io/at...](http://castorflex.github.io/atom.xml) |
 | An Android Developer's Blog | [https://blog.egorand.me/](https://blog.egorand.me/) | [http://blog.egorand.me/rss/](http://blog.egorand.me/rss/) |
 | Android Design Patterns | [http://androiddesignpatterns.b...](http://androiddesignpatterns.blogspot.com/) | [http://androiddesignpatterns.b...](http://androiddesignpatterns.blogspot.com/feeds/posts/default?alt=rss) |
@@ -46,8 +47,10 @@
 | Hannes Dorfmann | [http://hannesdorfmann.com/](http://hannesdorfmann.com/) | [http://www.hannesdorfmann.com/...](http://www.hannesdorfmann.com//feed.xml) |
 | Ian Field | [http://ianfield.com/](http://ianfield.com/) | [http://ianfield.com/feed.xml](http://ianfield.com/feed.xml) |
 | Jake Wharton | [http://jakewharton.com/](http://jakewharton.com/) | [http://jakewharton.com/atom.xm...](http://jakewharton.com/atom.xml) |
+| jebware.com | [https://jebware.com/blog](https://jebware.com/blog) | [https://jebware.com/blog/?feed...](https://jebware.com/blog/?feed=rss2) |
 | Jeremie Martinez Blog | [http://jeremie-martinez.com//](http://jeremie-martinez.com//) | [http://jeremie-martinez.com/fe...](http://jeremie-martinez.com/feed.xml) |
 | Jeroen Mols | [http://jeroenmols.com/](http://jeroenmols.com/) | [http://jeroenmols.github.io/at...](http://jeroenmols.github.io/atom.xml) |
+| Jim Baca | [http://blog.jimbaca.com](http://blog.jimbaca.com) | [http://blog.jimbaca.com/feed/](http://blog.jimbaca.com/feed/) |
 | John Petitto | [http://www.johnpetitto.com/](http://www.johnpetitto.com/) | [http://johnpetitto.com/atom.xm...](http://johnpetitto.com/atom.xml) |
 | Jorge Castillo | [http://jorgecastilloprz.github...](http://jorgecastilloprz.github.io/) | [http://jorgecastilloprz.github...](http://jorgecastilloprz.github.io/atom.xml) |
 | JPARDOGO on Medium | [https://medium.com/@jpardogo](https://medium.com/@jpardogo) | [https://medium.com/feed/@jpard...](https://medium.com/feed/@jpardogo) |
@@ -96,6 +99,7 @@
 | Yet Another [à compléter] | [http://blog.neteril.org/](http://blog.neteril.org/) | [http://blog.neteril.org/atom.x...](http://blog.neteril.org/atom.xml) |
 | Yet Another Coder's Blog | [http://blog.egorand.me/](http://blog.egorand.me/) | [http://blog.egorand.me/rss/](http://blog.egorand.me/rss/) |
 | YKode | [https://www.ykode.com](https://www.ykode.com) | [https://www.ykode.com/rss.xml](https://www.ykode.com/rss.xml) |
+| zserge's blog | [http://zserge.com/blog.html](http://zserge.com/blog.html) | [http://zserge.com/rss.xml](http://zserge.com/rss.xml) |
 | Łukasz Adamczak | [http://czak.pl/](http://czak.pl/) | [http://czak.pl/feed.xml](http://czak.pl/feed.xml) |
 
 ### Contributing guidelines
