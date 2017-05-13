@@ -40,7 +40,7 @@
 | Flavien Laurent | [http://flavienlaurent.com/](http://flavienlaurent.com/) | [http://flavienlaurent.com/atom...](http://flavienlaurent.com/atom.xml) |
 | froger_mcs dev blog | [http://frogermcs.github.io](http://frogermcs.github.io) | [http://frogermcs.github.io/fee...](http://frogermcs.github.io/feed.xml) |
 | Gadget Habit | [http://michaelevans.org/](http://michaelevans.org/) | [http://michaelevans.org/atom.x...](http://michaelevans.org/atom.xml) |
-| Grafix Artist | [http://blog.grafixartist.com](http://blog.grafixartist.com) | [http://blog.grafixartist.com/f...](http://blog.grafixartist.com/feed/) |
+| Grafix Artist | [http://blog.iamsuleiman.com](http://blog.iamsuleiman.com) | [http://blog.iamsuleiman.com/fe...](http://blog.iamsuleiman.com/feed/) |
 | Grokking Android | [http://www.grokkingandroid.com](http://www.grokkingandroid.com) | [http://feeds.feedburner.com/Gr...](http://feeds.feedburner.com/GrokkingAndroid) |
 | Ha Duy Trung's Blog | [https://hidroh.github.io](https://hidroh.github.io) | [http://www.hidroh.com/feed.xml](http://www.hidroh.com/feed.xml) |
 | halfthought | [https://halfthought.wordpress....](https://halfthought.wordpress.com) | [http://halfthought.wordpress.c...](http://halfthought.wordpress.com/feed/) |
