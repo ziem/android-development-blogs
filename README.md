@@ -10,11 +10,9 @@
 | Aditya Ladwa | [https://adityaladwa.wordpress....](https://adityaladwa.wordpress.com) | [https://adityaladwa.wordpress....](https://adityaladwa.wordpress.com/feed/) |
 | Advanced RxJava | [http://akarnokd.blogspot.com/](http://akarnokd.blogspot.com/) | [http://akarnokd.blogspot.com/f...](http://akarnokd.blogspot.com/feeds/posts/default) |
 | Alessandro Crugnola | [http://blog.sephiroth.it](http://blog.sephiroth.it) | [http://blog.sephiroth.it/feed/](http://blog.sephiroth.it/feed/) |
-| Alexandru V. Simonescu | [http://alexsimo.com/](http://alexsimo.com/) | [http://blog.alexsimo.com/feed....](http://blog.alexsimo.com/feed.xml) |
 | All for Android, Android for All | [http://www.ssaurel.com/blog](http://www.ssaurel.com/blog) | [http://www.ssaurel.com/blog/fe...](http://www.ssaurel.com/blog/feed/) |
 | An Android Dev Blog | [http://antoine-merle.com/](http://antoine-merle.com/) | [http://castorflex.github.io/at...](http://castorflex.github.io/atom.xml) |
 | An Android Developer's Blog | [https://blog.egorand.me/](https://blog.egorand.me/) | [http://blog.egorand.me/rss/](http://blog.egorand.me/rss/) |
-| Android Design Patterns | [http://androiddesignpatterns.b...](http://androiddesignpatterns.blogspot.com/) | [http://androiddesignpatterns.b...](http://androiddesignpatterns.blogspot.com/feeds/posts/default?alt=rss) |
 | Android Developer | [http://www.therealjoshua.com/b...](http://www.therealjoshua.com/blog/) | [http://www.therealjoshua.com/f...](http://www.therealjoshua.com/feed/) |
 | Android Developers Blog | [http://android-developers.blog...](http://android-developers.blogspot.com/) | [http://feeds.feedburner.com/bl...](http://feeds.feedburner.com/blogspot/hsDu) |
 | Android Hipster | [http://artemzin.com/blog/](http://artemzin.com/blog/) | [http://artemzin.com/blog/rss/](http://artemzin.com/blog/rss/) |
@@ -22,9 +20,7 @@
 | Angry Byte | [http://angrybyte.me/](http://angrybyte.me/) | [http://angrybyte.me/rss](http://angrybyte.me/rss) |
 | angusmorton | [http://angusmorton.com/](http://angusmorton.com/) | [http://angusmorton.com/rss/](http://angusmorton.com/rss/) |
 | Antonio Leiva | [http://antonioleiva.com](http://antonioleiva.com) | [http://antonioleiva.com/feed/](http://antonioleiva.com/feed/) |
-| Arjun U. | [http://arjunu.com](http://arjunu.com) | [http://arjunu.com/feed/](http://arjunu.com/feed/) |
 | Brad Campbell | [http://blog.bradcampbell.nz/](http://blog.bradcampbell.nz/) | [http://blog.bradcampbell.nz/rs...](http://blog.bradcampbell.nz/rss/) |
-| Callum Taylor's Blog | [http://blog.callumtaylor.net/](http://blog.callumtaylor.net/) | [http://blog.callumtylor.net/rs...](http://blog.callumtylor.net/rss) |
 | Carlos Sessa | [https://medium.com/@Macarse](https://medium.com/@Macarse) | [https://medium.com/feed/@Macar...](https://medium.com/feed/@Macarse) |
 | Chris Banes | [http://chris.banes.me/](http://chris.banes.me/) | [http://chris.banes.me/atom.xml](http://chris.banes.me/atom.xml) |
 | Christian Panadero | [http://panavtec.me](http://panavtec.me) | [http://panavtec.me/feed/](http://panavtec.me/feed/) |
@@ -38,8 +34,6 @@
 | enoent | [http://enoent.fr/](http://enoent.fr/) | [http://enoent.fr/atom.xml](http://enoent.fr/atom.xml) |
 | Fernando Cejas | [https://fernandocejas.com](https://fernandocejas.com) | [https://fernandocejas.com/feed](https://fernandocejas.com/feed) |
 | Flavien Laurent | [http://flavienlaurent.com/](http://flavienlaurent.com/) | [http://flavienlaurent.com/atom...](http://flavienlaurent.com/atom.xml) |
-| froger_mcs dev blog | [http://frogermcs.github.io](http://frogermcs.github.io) | [http://frogermcs.github.io/fee...](http://frogermcs.github.io/feed.xml) |
-| Gadget Habit | [http://michaelevans.org/](http://michaelevans.org/) | [http://michaelevans.org/atom.x...](http://michaelevans.org/atom.xml) |
 | Grafix Artist | [http://blog.iamsuleiman.com](http://blog.iamsuleiman.com) | [http://blog.iamsuleiman.com/fe...](http://blog.iamsuleiman.com/feed/) |
 | Grokking Android | [http://www.grokkingandroid.com](http://www.grokkingandroid.com) | [http://feeds.feedburner.com/Gr...](http://feeds.feedburner.com/GrokkingAndroid) |
 | Ha Duy Trung's Blog | [https://hidroh.github.io](https://hidroh.github.io) | [http://www.hidroh.com/feed.xml](http://www.hidroh.com/feed.xml) |
@@ -52,18 +46,16 @@
 | Jeroen Mols | [http://jeroenmols.com/](http://jeroenmols.com/) | [http://jeroenmols.github.io/at...](http://jeroenmols.github.io/atom.xml) |
 | Jim Baca | [http://blog.jimbaca.com](http://blog.jimbaca.com) | [http://blog.jimbaca.com/feed/](http://blog.jimbaca.com/feed/) |
 | John Petitto | [http://www.johnpetitto.com/](http://www.johnpetitto.com/) | [http://johnpetitto.com/atom.xm...](http://johnpetitto.com/atom.xml) |
-| Jorge Castillo | [http://jorgecastilloprz.github...](http://jorgecastilloprz.github.io/) | [http://jorgecastilloprz.github...](http://jorgecastilloprz.github.io/atom.xml) |
 | JPARDOGO on Medium | [https://medium.com/@jpardogo](https://medium.com/@jpardogo) | [https://medium.com/feed/@jpard...](https://medium.com/feed/@jpardogo) |
 | Karumi Blog | [http://blog.karumi.com/](http://blog.karumi.com/) | [http://blog.karumi.com/rss/](http://blog.karumi.com/rss/) |
 | kaushik gopal's blog | [http://blog.kaush.co/](http://blog.kaush.co/) | [http://blog.kaush.co/feed.xml](http://blog.kaush.co/feed.xml) |
 | Kirill Boyarshinov | [http://kboyarshinov.com](http://kboyarshinov.com) | [http://kboyarshinov.com/feed.x...](http://kboyarshinov.com/feed.xml) |
 | Lucas Rocha | [http://lucasr.org](http://lucasr.org) | [http://lucasr.org/feed/](http://lucasr.org/feed/) |
-| Marco Uberti » Android | [http://marcouberti.net](http://marcouberti.net) | [http://marcouberti.net/categor...](http://marcouberti.net/category/android/feed/) |
 | Material Design | [http://www.materialdoc.com/](http://www.materialdoc.com/) | [http://www.materialdoc.com/rss...](http://www.materialdoc.com/rss/) |
 | Matt Logan | [http://mattlogan.me/](http://mattlogan.me/) | [http://mattlogan.me/feed](http://mattlogan.me/feed) |
-| Matthew Wear | [http://matthewwear.xyz/](http://matthewwear.xyz/) | [http://matthewwear.xyz/rss/](http://matthewwear.xyz/rss/) |
+| Michael Evans | [http://michaelevans.org/](http://michaelevans.org/) | [http://michaelevans.org/atom.x...](http://michaelevans.org/atom.xml) |
+| Mirek Stanek online - Mobile, AI and coding | [https://mirekstanek.online/](https://mirekstanek.online/) | [https://mirekstanek.online/fee...](https://mirekstanek.online/feed/) |
 | More Is Not Always Better | [https://blahti.wordpress.com](https://blahti.wordpress.com) | [http://blahti.wordpress.com/fe...](http://blahti.wordpress.com/feed/) |
-| Mouna Cheikhna | [http://mounacheikhna.com](http://mounacheikhna.com) | [http://feeds.feedburner.com/Mo...](http://feeds.feedburner.com/MounaCheikhna) |
 | My life with Android :-) | [http://mylifewithandroid.blogs...](http://mylifewithandroid.blogspot.com/) | [http://mylifewithandroid.blogs...](http://mylifewithandroid.blogspot.com/feeds/posts/default) |
 | My little Android warehouse | [http://fedepaol.github.io/](http://fedepaol.github.io/) | [http://fedepaol.github.io/atom...](http://fedepaol.github.io/atom.xml) |
 | NimbleDroid Blog | [http://blog.nimbledroid.com/](http://blog.nimbledroid.com/) | [http://blog.nimbledroid.com/fe...](http://blog.nimbledroid.com/feed.xml) |
@@ -94,7 +86,6 @@
 | Udi Cohen | [http://blog.udinic.com/](http://blog.udinic.com/) | [http://blog.udinic.com/feed.xm...](http://blog.udinic.com/feed.xml) |
 | Vincent Brison | [http://vincentbrison.com](http://vincentbrison.com) | [http://vincentbrison.com/feed/](http://vincentbrison.com/feed/) |
 | Vishnu Rajeevan | [http://vishnurajeevan.com/](http://vishnurajeevan.com/) | [http://vishnurajeevan.com/feed...](http://vishnurajeevan.com/feed.xml) |
-| Wedding Party | [http://nerds.weddingpartyapp.c...](http://nerds.weddingpartyapp.com/) | [http://nerds.weddingpartyapp.c...](http://nerds.weddingpartyapp.com/atom.xml) |
 | Wires Are Obsolete | [http://wiresareobsolete.com](http://wiresareobsolete.com) | [http://wiresareobsolete.com/fe...](http://wiresareobsolete.com/feed/) |
 | Yet Another [à compléter] | [http://blog.neteril.org/](http://blog.neteril.org/) | [http://blog.neteril.org/atom.x...](http://blog.neteril.org/atom.xml) |
 | Yet Another Coder's Blog | [http://blog.egorand.me/](http://blog.egorand.me/) | [http://blog.egorand.me/rss/](http://blog.egorand.me/rss/) |
