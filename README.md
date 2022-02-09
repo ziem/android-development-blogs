@@ -21,6 +21,7 @@
 | Chris Banes | [http://chris.banes.me/](http://chris.banes.me/) | [http://chris.banes.me/atom.xml](http://chris.banes.me/atom.xml) |
 | code.neenbedankt.com | [http://code.neenbedankt.com](http://code.neenbedankt.com) | [http://code.neenbedankt.com/fe...](http://code.neenbedankt.com/feed/) |
 | Codedependent | [http://graphics-geek.blogspot....](http://graphics-geek.blogspot.com/) | [http://graphics-geek.blogspot....](http://graphics-geek.blogspot.com/feeds/posts/default) |
+| Craig Russell Technical Blog | [https://craigrussell.io/](https://craigrussell.io/) | [https://craigrussell.io/feed.xml](https://craigrussell.io/feed.xml) |
 | Crushing C.O.D.E | [http://crushingcode.nisrulz.co...](http://crushingcode.nisrulz.com) | [http://crushingcode.nisrulz.co...](http://crushingcode.nisrulz.com/index.xml) |
 | Cyril Mottier | [http://cyrilmottier.com/](http://cyrilmottier.com/) | [http://android.cyrilmottier.co...](http://android.cyrilmottier.com/?feed=rss2) |
 | Dan Lew Codes | [http://blog.danlew.net/](http://blog.danlew.net/) | [http://blog.danlew.net/rss/](http://blog.danlew.net/rss/) |
@@ -32,13 +33,14 @@
 | Grokking Android | [http://www.grokkingandroid.com](http://www.grokkingandroid.com) | [http://feeds.feedburner.com/Gr...](http://feeds.feedburner.com/GrokkingAndroid) |
 | Ha Duy Trung's Blog | [https://hidroh.github.io](https://hidroh.github.io) | [http://www.hidroh.com/feed.xml](http://www.hidroh.com/feed.xml) |
 | halfthought | [https://halfthought.wordpress....](https://halfthought.wordpress.com) | [http://halfthought.wordpress.c...](http://halfthought.wordpress.com/feed/) |
-| Hannes Dorfmann | [http://hannesdorfmann.com/](http://hannesdorfmann.com/) | [http://www.hannesdorfmann.com/...](http://www.hannesdorfmann.com//feed.xml) |
+| Hannes Dorfmann | [http://hannesdorfmann.com/](http://hannesdorfmann.com/) | [http://www.hannesdorfmann.com/...](http://www.hannesdorfmann.com/index.xml) |
 | Ian Field | [http://ianfield.com/](http://ianfield.com/) | [http://ianfield.com/feed.xml](http://ianfield.com/feed.xml) |
 | Jake Wharton | [http://jakewharton.com/](http://jakewharton.com/) | [http://jakewharton.com/atom.xm...](http://jakewharton.com/atom.xml) |
 | jebware.com | [https://jebware.com/blog](https://jebware.com/blog) | [https://jebware.com/blog/?feed...](https://jebware.com/blog/?feed=rss2) |
 | Jeremie Martinez Blog | [http://jeremie-martinez.com//](http://jeremie-martinez.com//) | [http://jeremie-martinez.com/fe...](http://jeremie-martinez.com/feed.xml) |
 | Jeroen Mols | [http://jeroenmols.com/](http://jeroenmols.com/) | [http://jeroenmols.github.io/at...](http://jeroenmols.github.io/atom.xml) |
 | Jim Baca | [http://blog.jimbaca.com](http://blog.jimbaca.com) | [http://blog.jimbaca.com/feed/](http://blog.jimbaca.com/feed/) |
+| John O'Reilly | [https://johnoreilly.dev/](https://johnoreilly.dev/) | [https://johnoreilly.dev/atom.xml](https://johnoreilly.dev/atom.xml) |
 | JPARDOGO on Medium | [https://medium.com/@jpardogo](https://medium.com/@jpardogo) | [https://medium.com/feed/@jpard...](https://medium.com/feed/@jpardogo) |
 | Karumi Blog | [http://blog.karumi.com/](http://blog.karumi.com/) | [http://blog.karumi.com/rss/](http://blog.karumi.com/rss/) |
 | kaushik gopal's blog | [http://blog.kaush.co/](http://blog.kaush.co/) | [http://blog.kaush.co/feed.xml](http://blog.kaush.co/feed.xml) |
@@ -57,9 +59,9 @@
 | Piwaï.info | [http://www.piwai.info](http://www.piwai.info) | [http://feeds.feedburner.com/Pi...](http://feeds.feedburner.com/Piwai) |
 | Porcupine Programmer | [http://chalup.github.io/](http://chalup.github.io/) | [http://chalup.github.io/atom.x...](http://chalup.github.io/atom.xml) |
 | Public Object | [https://publicobject.com/](https://publicobject.com/) | [http://blog.publicobject.com/f...](http://blog.publicobject.com/feeds/posts/default) |
-| Riggaroo | [http://riggaroo.co.za](http://riggaroo.co.za) | [http://riggaroo.co.za/feed/](http://riggaroo.co.za/feed/) |
+| Rebecca Franks - @riggaroo | [http://riggaroo.co.za](http://riggaroo.co.za) | [http://riggaroo.co.za/feed/](http://riggaroo.co.za/feed/) |
 | Romain Guy | [http://www.curious-creature.co...](http://www.curious-creature.com) | [http://www.curious-creature.or...](http://www.curious-creature.org/feed/) |
-| Ryan Harter | [http://ryanharter.com/](http://ryanharter.com/) | [http://ryanharter.com/atom.xml](http://ryanharter.com/atom.xml) |
+| Ryan Harter | [http://ryanharter.com/](http://ryanharter.com/) | [http://ryanharter.com/index.xml](http://ryanharter.com/index.xml) |
 | Saúl Molinero | [https://saulmm.github.io/](https://saulmm.github.io/) | [http://saulmm.github.io/atom.x...](https://saulmm.github.io/atom.xml) |
 | Sebastiano Gottardo on Medium | [https://medium.com/@rotxed](https://medium.com/@rotxed) | [https://medium.com/feed/@rotxe...](https://medium.com/feed/@rotxed) |
 | Seb’s Top Tip | [https://medium.com/@seebrock3r](https://medium.com/@seebrock3r) | [https://medium.com/feed/@seebr...](https://medium.com/feed/@seebrock3r) |
@@ -78,7 +80,9 @@
 | Wires Are Obsolete | [http://wiresareobsolete.com](http://wiresareobsolete.com) | [http://wiresareobsolete.com/fe...](http://wiresareobsolete.com/feed/) |
 | Yet Another [à compléter] | [http://blog.neteril.org/](http://blog.neteril.org/) | [http://blog.neteril.org/atom.x...](http://blog.neteril.org/atom.xml) |
 | YKode | [https://www.ykode.com](https://www.ykode.com) | [https://www.ykode.com/rss.xml](https://www.ykode.com/rss.xml) |
+| Zac Sweers | [https://www.zacsweers.dev/](https://www.zacsweers.dev/) | [https://www.zacsweers.dev/rss/](https://www.zacsweers.dev/rss/) |
 | zserge's blog | [http://zserge.com/blog.html](http://zserge.com/blog.html) | [http://zserge.com/rss.xml](http://zserge.com/rss.xml) |
+| zsmb.co | [https://zsmb.co/](https://zsmb.co/) | [https://zsmb.co/index.xml](https://zsmb.co/index.xml) |
 | Łukasz Adamczak | [http://czak.pl/](http://czak.pl/) | [http://czak.pl/feed.xml](http://czak.pl/feed.xml) |
 
 ### Contributing guidelines
